@@ -1,8 +1,10 @@
 # InterLinked Creations
 
+## Description
+---
 What InterLinked Creations does is make tools that makes building computer programs easier for _free!_ We try to think about what's good for the people, making easy to use tools, secure and family-friendly content for everyone to enjoy. We also like contributing to other people's projects to help others out.
 
-We are mostly big on making Video Games. Most of our games take place on a world named Wonder World, a magical place with a large array of creatures. 
+We are mostly big on making Video Games. Most of our games take place in a world named Wonder World, a magical place with a large array of creatures. 
 
 There isn't much at the moment, but more will be created over time.
 
