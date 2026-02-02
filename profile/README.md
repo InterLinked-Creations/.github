@@ -4,7 +4,7 @@ InterLinked Creations is a company that aims to build family friendly content th
 
 We are mostly big on making Video Games. Most of our games take place in <a href="https://github.com/InterLinked-Creations/Wonder-World">Wonder World</a>, a magical place with many creatures, unique items, fascinating characters, and lots of capabilities. 
 
-The Interlinked Creations website and app are still under development, so if you have any ideas you want to pitch in, or see how development is working out, check out our <a href="https://github.com/InterLinked-Creations/.github/discussions">GitHub Discussions Page.</a>
+The Interlinked Creations website and app are still under development, so if you have any ideas you want to pitch in, report bugs/issues you come across, or see how development is working out, check out our <a href="https://github.com/InterLinked-Creations/community/discussions">GitHub Discussions Page.</a>
 
 This is a start up company, so there aren't very many builds yet... 👀
 
